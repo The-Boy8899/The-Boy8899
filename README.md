@@ -22,7 +22,16 @@ My passion for tech, cybersecurity, network engineering, and programming has bee
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Setup of Squirrel Mail server with Postfix and Dovecot | Linux System Administrator Lab|
 
+## Tech Stack  
+<div>
 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+
+</div>
 
 ## Tools
 
@@ -45,7 +54,8 @@ My passion for tech, cybersecurity, network engineering, and programming has bee
 
 <div>
   
-[![CEH Certified](https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-red?logo=hackthebox&logoColor=white)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+  <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker-CEH-red?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CEH Certified" />
+
 
 </div>
 
