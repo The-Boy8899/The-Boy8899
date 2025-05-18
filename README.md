@@ -16,9 +16,6 @@ My passion for tech, cybersecurity, network engineering, and programming has bee
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | Detection Lab|
 | Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Setup of Squirrel Mail server with Postfix and Dovecot | Linux System Administrator Lab|
 
