@@ -5,9 +5,7 @@
 
 ## Objective 
 
-My passion for tech, cybersecurity, network engineering, and programming has been a great help in my journey to transition into the field. My aim is to gain deep knowledge and build a career as 
-1. Network engineer
-2. SOC analyst.
+My passion for tech, cybersecurity, network engineering, and programming has been a great help in my journey to transition into the field. My aim is to gain deep knowledge and build a career in tech
 
 ## Skills
 
