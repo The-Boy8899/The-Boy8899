@@ -1,7 +1,7 @@
 # Hello, I'm Oyerinde Oluwapelumi
 <a href="https://www.linkedin.com/in/pelumi-oyerinde-6b26472a3"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
- I'm an undergraduate fueled by a passion for cybersecurity, tech, programming, and network engineering. I'm learning relentlessly, creating impactful projects, and documenting every step of my journey.
+ I'm a cybersecurity professional fueled by a passion for cybersecurity, tech, programming, and network engineering. I'm learning relentlessly, creating impactful projects, and documenting every step of my journey.
 
 ## Objective 
 
